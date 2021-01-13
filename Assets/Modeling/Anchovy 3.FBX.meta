@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 31e3b066d721d3442a89debb2bf25331
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Anal_Fin
+    100002: //RootNode
+    100004: Body_Bone
+    100006: Body_Skin_L
+    100008: Body_Skin_R
+    100010: Brain
+    100012: Colon
+    100014: Dorsal_Fin_Bone
+    100016: Dorsal_Fin_Skin
+    100018: Esophagus
+    100020: Eye_L
+    100022: Eye_R
+    100024: Flesh_L
+    100026: Flesh_R
+    100028: Gills
+    100030: Heart
+    100032: Intestine
+    100034: Kidney L
+    100036: Kidney R
+    100038: Liver
+    100040: Ovary
+    100042: Pancreas1
+    100044: Pancreas2
+    100046: Pectoral_L
+    100048: Pectoral_R
+    100050: Pyloric Caceca
+    100052: Skeleton
+    100054: Spinal_Cord
+    100056: Spleen
+    100058: Stomech
+    100060: Swim Bladder
+    100062: Tale_Bone
+    100064: Tale_Fin
+    100066: Vascular_System
+    100068: Ventral_Fin
+    400000: Anal_Fin
+    400002: //RootNode
+    400004: Body_Bone
+    400006: Body_Skin_L
+    400008: Body_Skin_R
+    400010: Brain
+    400012: Colon
+    400014: Dorsal_Fin_Bone
+    400016: Dorsal_Fin_Skin
+    400018: Esophagus
+    400020: Eye_L
+    400022: Eye_R
+    400024: Flesh_L
+    400026: Flesh_R
+    400028: Gills
+    400030: Heart
+    400032: Intestine
+    400034: Kidney L
+    400036: Kidney R
+    400038: Liver
+    400040: Ovary
+    400042: Pancreas1
+    400044: Pancreas2
+    400046: Pectoral_L
+    400048: Pectoral_R
+    400050: Pyloric Caceca
+    400052: Skeleton
+    400054: Spinal_Cord
+    400056: Spleen
+    400058: Stomech
+    400060: Swim Bladder
+    400062: Tale_Bone
+    400064: Tale_Fin
+    400066: Vascular_System
+    400068: Ventral_Fin
+    2100000: 'Material #262'
+    2100002: 'Material #25'
+    2100004: 'Material #261'
+    2100006: 'Material #27'
+    2100008: 'Material #29'
+    2100010: 'Material #263'
+    2100012: 'Material #28'
+    2300000: Anal_Fin
+    2300002: Body_Bone
+    2300004: Body_Skin_L
+    2300006: Body_Skin_R
+    2300008: Brain
+    2300010: Colon
+    2300012: Dorsal_Fin_Bone
+    2300014: Dorsal_Fin_Skin
+    2300016: Esophagus
+    2300018: Eye_L
+    2300020: Eye_R
+    2300022: Flesh_L
+    2300024: Flesh_R
+    2300026: Gills
+    2300028: Heart
+    2300030: Intestine
+    2300032: Kidney L
+    2300034: Kidney R
+    2300036: Liver
+    2300038: Ovary
+    2300040: Pancreas1
+    2300042: Pancreas2
+    2300044: Pectoral_L
+    2300046: Pectoral_R
+    2300048: Pyloric Caceca
+    2300050: Skeleton
+    2300052: Spinal_Cord
+    2300054: Spleen
+    2300056: Stomech
+    2300058: Swim Bladder
+    2300060: Tale_Bone
+    2300062: Tale_Fin
+    2300064: Vascular_System
+    2300066: Ventral_Fin
+    3300000: Anal_Fin
+    3300002: Body_Bone
+    3300004: Body_Skin_L
+    3300006: Body_Skin_R
+    3300008: Brain
+    3300010: Colon
+    3300012: Dorsal_Fin_Bone
+    3300014: Dorsal_Fin_Skin
+    3300016: Esophagus
+    3300018: Eye_L
+    3300020: Eye_R
+    3300022: Flesh_L
+    3300024: Flesh_R
+    3300026: Gills
+    3300028: Heart
+    3300030: Intestine
+    3300032: Kidney L
+    3300034: Kidney R
+    3300036: Liver
+    3300038: Ovary
+    3300040: Pancreas1
+    3300042: Pancreas2
+    3300044: Pectoral_L
+    3300046: Pectoral_R
+    3300048: Pyloric Caceca
+    3300050: Skeleton
+    3300052: Spinal_Cord
+    3300054: Spleen
+    3300056: Stomech
+    3300058: Swim Bladder
+    3300060: Tale_Bone
+    3300062: Tale_Fin
+    3300064: Vascular_System
+    3300066: Ventral_Fin
+    4300000: Dorsal_Fin_Skin
+    4300002: Tale_Bone
+    4300004: Swim Bladder
+    4300006: Stomech
+    4300008: Spleen
+    4300010: Spinal_Cord
+    4300012: Skeleton
+    4300014: Pyloric Caceca
+    4300016: Pancreas2
+    4300018: Pancreas1
+    4300020: Ovary
+    4300022: Liver
+    4300024: Kidney R
+    4300026: Kidney L
+    4300028: Intestine
+    4300030: Heart
+    4300032: Gills
+    4300034: Flesh_R
+    4300036: Flesh_L
+    4300038: Eye_R
+    4300040: Eye_L
+    4300042: Esophagus
+    4300044: Tale_Fin
+    4300046: Dorsal_Fin_Bone
+    4300048: Colon
+    4300050: Brain
+    4300052: Vascular_System
+    4300054: Body_Bone
+    4300056: Body_Skin_L
+    4300058: Pectoral_R
+    4300060: Pectoral_L
+    4300062: Anal_Fin
+    4300064: Ventral_Fin
+    4300066: Body_Skin_R
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
